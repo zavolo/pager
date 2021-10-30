@@ -1,0 +1,11 @@
+id: pager
+version: "0.0.1.0"
+openvk_version: 0
+enabled: 1
+metadata:
+    name:
+        _: "Pager [by Ash Defenders]"
+        en: "Pager [by Ash Defenders]"
+        ru: "Пейджер [by Ash Defenders]"
+    author: "Ash Defenders"
+    description: "Тема в стили соц. сети Пейджер Fdd5-25"
